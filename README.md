@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a fitness app to monitor my health journey and inspire better self-care.**
 
-- 🌱 I’m currently devloping skilss in **neural network programming and artificial intelligence concepts**
+- 🌱 I’m currently devloping skills in **neural network programming and artificial intelligence concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AetherCodeOfficial](https://github.com/AetherCodeOfficial)
 
