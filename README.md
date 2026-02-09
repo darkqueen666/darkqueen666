@@ -1,4 +1,4 @@
-# Ny — Systems & Dark UI Developer 🖤
+# DarkQueen666's Systems & Dark UI Developer 🖤
 
 I build **from-scratch systems** with a dark aesthetic and clean engineering:  
 **FiveM Lua resources**, **Discord bots**, **vanilla HTML/CSS/JS interfaces**, and occasional **Python game prototypes**.
@@ -10,18 +10,17 @@ I build **from-scratch systems** with a dark aesthetic and clean engineering:
 - 🎮 **Python (Pygame): Hunt Them Down** — gothic raycast shooter prototype (rendering + AI/pathfinding)
 
 ## Featured projects (from scratch)
-> Replace the repo links with your real ones.
 
 - **Driving School (FiveM Lua)** — *In progress*  
-  Repo: https://github.com/<YOUR-USER>/<YOUR-REPO>  
+  Repo: Coming Soon 
   Highlights: state machine, persistence, validation, anti-exploit checks, config + localization
 
 - **Discord Community Bot (Node.js)** — *In progress*  
-  Repo: https://github.com/<YOUR-USER>/<YOUR-REPO>  
+  Repo: For Showcase Join the Discord 
   Highlights: modular commands, permission gates, logging, rate limiting, deployment guide
 
 - **Dark UI Kit / Vanilla Web Starter (HTML/CSS/JS)** — *Finished*  
-  Repo: https://github.com/<YOUR-USER>/<YOUR-REPO>  
+  Repo: Coming Soon on my Website
   Highlights: accessible components, clean layout system, performance-minded, no framework bloat
 
 - **Hunt Them Down (Python / Pygame)** — *Finished*  
