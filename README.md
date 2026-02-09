@@ -1,15 +1,16 @@
-# Ny — Gothic UI & Systems Developer 🖤
+# Ny — Systems & Dark UI Developer 🖤
 
 I build **from-scratch systems** with a dark aesthetic and clean engineering:  
-**FiveM Lua resources**, **Discord bots**, and **vanilla HTML/CSS/JS interfaces** that look sharp and behave reliably.
+**FiveM Lua resources**, **Discord bots**, **vanilla HTML/CSS/JS interfaces**, and occasional **Python game prototypes**.
 
-## What I’m focused on right now
-- 🧩 **FiveM (Lua): Driving School Resource** — full license flow (theory → practice → exam), server-authoritative logic, config-first design  
-- 🤖 **Discord Bot (Node.js): modular community toolkit** — slash commands, permissions, logging, deploy-friendly setup  
-- 🕸️ **Web (HTML/CSS/JS): dark UI components** — overlays, timers, and reusable UI patterns
+## Current focus
+- 🧩 **FiveM (Lua): Driving School Resource** — theory → practice → exam, server-authoritative logic, config-first
+- 🤖 **Discord Bot (Node.js): modular community toolkit** — slash commands, permissions, logging, deploy-friendly setup
+- 🕸️ **Web (HTML/CSS/JS): Dark UI kit** — reusable components + overlays (timer, panels, widgets)
+- 🎮 **Python (Pygame): Hunt Them Down** — gothic raycast shooter prototype (rendering + AI/pathfinding)
 
-## Featured projects (job-market friendly)
-> Replace these links with your actual repos.
+## Featured projects (from scratch)
+> Replace the repo links with your real ones.
 
 - **Driving School (FiveM Lua)** — *In progress*  
   Repo: https://github.com/<YOUR-USER>/<YOUR-REPO>  
@@ -17,11 +18,15 @@ I build **from-scratch systems** with a dark aesthetic and clean engineering:
 
 - **Discord Community Bot (Node.js)** — *In progress*  
   Repo: https://github.com/<YOUR-USER>/<YOUR-REPO>  
-  Highlights: modular commands, role/permission gates, logging, rate limiting, deploy guide
+  Highlights: modular commands, permission gates, logging, rate limiting, deployment guide
 
-- **Vanilla Web Starter / Dark UI Kit (HTML/CSS/JS)** — *Finished*  
+- **Dark UI Kit / Vanilla Web Starter (HTML/CSS/JS)** — *Finished*  
   Repo: https://github.com/<YOUR-USER>/<YOUR-REPO>  
   Highlights: accessible components, clean layout system, performance-minded, no framework bloat
+
+- **Hunt Them Down (Python / Pygame)** — *Finished*  
+  Repo: https://github.com/<YOUR-USER>/Hunt-them-down  
+  Highlights: **raycasting pseudo-3D renderer**, textured walls/sprites, **NPC AI + BFS pathfinding**, collision + movement, sound + weapon loop, playable release build
 
 ## How I work
 - ✅ Build **small → solid → scalable** (milestones, changelog, tagged releases)
@@ -29,18 +34,15 @@ I build **from-scratch systems** with a dark aesthetic and clean engineering:
 - 🧼 Clean structure: `client/` `server/` `shared/` `ui/` + config-first patterns
 - 🧾 Docs matter: setup, usage, troubleshooting, and security notes
 
-## Tech stack (the stuff I actually ship with)
+## Tech I actually ship with
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-## Open to
-- Junior roles / internships in **web development**, **scripting**, or **tools/bots**
-- Collaboration on **dark-themed UI**, **community tooling**, or **game-server systems**
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Y545CpvQTT)
