@@ -25,7 +25,7 @@ I build **from-scratch systems** with a dark aesthetic and clean engineering:
   Highlights: accessible components, clean layout system, performance-minded, no framework bloat
 
 - **Hunt Them Down (Python / Pygame)** — *Finished*  
-  Repo: https://github.com/<YOUR-USER>/Hunt-them-down  
+  Repo: [Hunt them down (Game)](https://github.com/darkqueen666/Hunt-them-down)
   Highlights: **raycasting pseudo-3D renderer**, textured walls/sprites, **NPC AI + BFS pathfinding**, collision + movement, sound + weapon loop, playable release build
 
 ## How I work
